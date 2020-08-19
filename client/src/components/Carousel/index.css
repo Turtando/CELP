@@ -1,0 +1,31 @@
+.carousel-item > .imageSize{
+    height: 465px;
+    width: 100%;
+}
+
+.jumbotron{
+    background-color: #111d4a;
+    box-shadow: 3px 3px 17px #000;
+}
+
+.textColor{
+    color: floralwhite;
+}
+
+/* .captionColor{
+    color: #92140cff;
+} */
+
+/* .imageText{
+    background-color: #ffcf99ff;
+    width: 40%;
+} */
+
+.imageOpacity{
+    opacity: .50;
+}
+
+.slideText{
+    font-family: "Andale Mono";
+    font-weight: bold;
+}
