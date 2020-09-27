@@ -17,6 +17,8 @@ Using the Google Maps API, we offer the user the accessability of selecting a pi
  
 To install the necessary dependencies, run the following command: 
 npm i.
+![](client/public/image/screenshot.jpg)
+
 # License
 None
 ![](https://img.shields.io/badge/build-readme-green)
